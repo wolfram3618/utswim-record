@@ -1,3 +1,7 @@
+# 東京大学水泳部競泳陣: 記録更新支援システム
+
+記録更新を簡素化する(CSV ファイルや、コードのファイルを直接編集することなく簡単に更新できるようにしたい)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
